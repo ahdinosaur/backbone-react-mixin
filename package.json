@@ -1,0 +1,35 @@
+{
+  "name": "backbone-react-mixin",
+  "version": "0.6.2",
+  "description": "mixin to make React Components like Backbone.View",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ahdinosaur/backbone-react-mixin.git"
+  },
+  "keywords": [
+    "backbone",
+    "react",
+    "data",
+    "binding",
+    "models",
+    "collections",
+    "server",
+    "client"
+  ],
+  "author": "José Magalhães <magalhas@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ahdinosaur/backbone-react-mixin/issues"
+  },
+  "homepage": "https://github.com/ahdinosaur/backbone-react-mixin",
+  "dependencies": {
+    "backbone": "^1.1.2",
+    "backbone-react-component": "^0.6.2",
+    "envify": "^1.2.1",
+    "react": "^0.10.0"
+  }
+}
